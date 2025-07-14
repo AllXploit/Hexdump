@@ -49,6 +49,12 @@ gcc -Wall -O2 -o hexdump hexdump.c
 make clean
 ```
 
+## Test
+
+```bash
+./hexdump test.bin
+```
+
 ## Why?
 
 Because `hexdump` and `xxd` are great but, sometimes, you just want to write your own and flex a bit.

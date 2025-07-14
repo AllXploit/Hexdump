@@ -1,0 +1,7 @@
+hexdump
+*.o
+
+.DS_Store
+
+*.swp
+*~
